@@ -1,24 +1,8 @@
-# README
+# bookers1-debug
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 概要
+プログラミングスクール2ヶ月目の応用課題パート1です。
+アプリケーション内からバグを見つけて修正するという課題です。
+RSpecのテストコードをスクール側から用意していただき使用しました。 
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
